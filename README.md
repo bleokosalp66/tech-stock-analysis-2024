@@ -7,3 +7,7 @@ This repository contains comprehensive analysis of major technology stocks: AAPL
 - AAPL: In Progress
 - MSFT: Pending
 - GOOGL: Pending
+
+## Future Plans
+- Complete analysis for all stocks.
+- Add visualizations to findings.
